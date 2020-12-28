@@ -8,6 +8,6 @@ def add_players():
     num = 0
     while x != num:
         name = Player(input('Add a new player: '))
-        players.append(name)
+        players.append(name.name)
         num +=1
     print(len(players))
