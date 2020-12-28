@@ -1,0 +1,1 @@
+list_of_package = ['Paket 1', 'Paket 2']
